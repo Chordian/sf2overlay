@@ -1,0 +1,11 @@
+.svn
+.vs
+Debug
+Release
+libs/*
+*.dll
+*.exe
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
